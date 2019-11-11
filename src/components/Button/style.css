@@ -1,0 +1,17 @@
+button {
+  background-color: rgb(228, 220, 210);
+  padding: 8px 15px;
+  border: none;
+  color: rgb(53, 23, 23);
+  font: normal normal bold 20px sans-serif;
+  cursor: pointer;
+  margin: 10px;
+  transition: .3s;
+  border-radius: 8px;
+}
+
+button:hover {
+  -webkit-box-shadow: 0px 3px 5px 1px rgba(133,128,133,1);
+  -moz-box-shadow: 0px 3px 5px 1px rgba(133,128,133,1);
+  box-shadow: 0px 3px 5px 1px rgba(133,128,133,1);
+}
